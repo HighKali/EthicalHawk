@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+PyYAML
+torpy
+stem
+tweepy
+shodan
+censys
+wappalyzer
